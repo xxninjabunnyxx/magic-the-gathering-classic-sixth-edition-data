@@ -1,0 +1,107 @@
+---
+object: card
+id: 6c00fc18-8101-48ff-9842-2b157eb02681
+oracle_id: f9b02a7c-c122-4282-90e2-81fcfa663193
+multiverse_ids:
+- 15363
+tcgplayer_id: 2523
+cardmarket_id: 10908
+name: Diminishing Returns
+lang: en
+released_at: '1999-04-21'
+uri: https://api.scryfall.com/cards/6c00fc18-8101-48ff-9842-2b157eb02681
+scryfall_uri: https://scryfall.com/card/6ed/65/diminishing-returns?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.jpg?1562818728
+  normal: https://cards.scryfall.io/normal/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.jpg?1562818728
+  large: https://cards.scryfall.io/large/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.jpg?1562818728
+  png: https://cards.scryfall.io/png/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.png?1562818728
+  art_crop: https://cards.scryfall.io/art_crop/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.jpg?1562818728
+  border_crop: https://cards.scryfall.io/border_crop/front/6/c/6c00fc18-8101-48ff-9842-2b157eb02681.jpg?1562818728
+mana_cost: "{2}{U}{U}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Each player shuffles their hand and graveyard into their library. You
+  exile the top ten cards of your library. Then each player draws up to seven cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 78ee1957-d5d4-4551-acae-b1b418e8a50b
+set: 6ed
+set_name: Classic Sixth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/78ee1957-d5d4-4551-acae-b1b418e8a50b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A6ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/6ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6c00fc18-8101-48ff-9842-2b157eb02681/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af9b02a7c-c122-4282-90e2-81fcfa663193&unique=prints
+collector_number: '65'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Allen Williams
+artist_ids:
+- 8a56d854-b424-45ec-9262-e993a382a961
+illustration_id: a17c16c2-c1c0-4e67-8c8b-a08dd59b2a39
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10665
+penny_rank: 3769
+prices:
+  usd: '3.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15363
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Diminishing+Returns&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Diminishing+Returns&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Diminishing+Returns
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2523?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Diminishing+Returns&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diminishing+Returns&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
